@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Audiobooks PL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cover_of_the_audiobook">Cover of the audiobook</string>
+    <string name="rodzaj">Rodzaj:</string>
+    <string name="gatunek">Gatunek:</string>
+</resources>
